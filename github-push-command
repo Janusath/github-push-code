@@ -1,0 +1,12 @@
+send to the file from local to github
+
+1. git init
+
+2. git add .
+
+3. git commit -m "initial comit"
+4. if you want to create new branch -> git branch -M main // this is optional
+
+4. git remote add origin https://github.com/Janusath/Demo2.git
+
+git push -u origin master or/ git push or/ git push -f -u origin master
