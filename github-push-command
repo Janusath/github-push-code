@@ -6,7 +6,7 @@ send to the file from local to github
 
 3. git commit -m "initial comit"  // or 
 git commit -a -m "initial comit" // if you want to add local repository without add . command 
-4. if you want to create new branch -> git branch -M main // this is optional
+4. if you want to rename the branch -> git branch -M main // this is optional
 
 4. git remote add origin https://github.com/Janusath/Demo2.git
 
